@@ -1,0 +1,23 @@
+{
+  "name": "@dartmoon/routerjs",
+  "version": "1.0.0",
+  "description": "JavaScript router to load only relevant portion of code based on body classes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dartmoon-io/routerjs.git"
+  },
+  "keywords": [
+    "routerjs",
+    "body",
+    "classes"
+  ],
+  "author": "Dartmoon <hello@dartmoon.io> (https://dartmoon.io)",
+  "contributors": [
+    "Alessandro Pasqualini <alessandro@dartmoon.io> (https://dartmoon.io)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dartmoon-io/routerjs/issues"
+  },
+  "homepage": "https://github.com/dartmoon-io/routerjs#readme"
+}
